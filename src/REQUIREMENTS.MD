@@ -15,6 +15,6 @@
 
 - Compliments registration
 
-  - [ ] Do not allow compliment registration for himself/herself
-  - [ ] Do not allow tag registration for invalid user
+  - [x] Do not allow compliment registration for himself/herself
+  - [x] Do not allow tag registration for invalid user
   - [ ] Do not allow tag registration if user is not authenticated
